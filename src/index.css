@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+
+.containerbox{
+  width:450px;
+  margin:0 auto;
+}
+
+.imgtitle{
+  margin:5px 5px 20px;
+}
+.imgtitle h1{
+  display:inline-block;
+}
+.clickcount{
+  display:inline-block;
+  font-size:12px;
+  margin-top:20px;
+}
+
+.keywordbox{
+  margin:20px 5px 10px;
+  font-size:12px;
+}
+.imgbox{
+  margin:0 5px 20px;
+  border-radius:10px;
+  width:100%;
+  height:100%;
+  overflow:hidden;
+  box-shadow:3px 3px 8px 0 rgba(0,0,0,.5);
+}
+.tour-img{
+  width:100%;
+  height:100%;
+}
+.descbox{
+  margin:20px 5px;
+}
